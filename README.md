@@ -3,7 +3,7 @@
 <p>The path to execute this program is: <em>MagSimu/ProjetoMagnetismo/dist/ProjetoMagnetismo.jar <em> </p>
 <p>You will need Java support to execute a .jar file. </p>
  <hr>
- <p>Access my mentor's project site: <a href="https://www.escavador.com/sobre/7180600/ana-lucia-dantas">Click here</a></p>
+ <p>Access my mentor's curriculum: <a href="https://www.escavador.com/sobre/7180600/ana-lucia-dantas">Click here</a></p>
  <hr>
 
 A screenshot of the software MagSimu running a simulation:
