@@ -1,6 +1,6 @@
 # MagSimu
 <p>A Nanomagnetics Systems Simulator</p>
-<p>The path to execute this program is: MagSimu/ProjetoMagnetismo/dist/ProjetoMagnetismo.jar </p>
+<p>The path to execute this program is: <em>MagSimu/ProjetoMagnetismo/dist/ProjetoMagnetismo.jar <em> </p>
 <p>You will need Java support to execute a .jar file. </p>
 
 A screenshot of the software MagSimu running a simulation:
